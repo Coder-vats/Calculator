@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.buttons {
+    margin: 5px auto;
+    text-align: center;
+}
+
+.button {
+    width: 7.2%;
+    padding: 10px 30px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+input#entry {
+    height: 4rem;
+    display: block;
+    margin: auto;
+}
+
+input:hover {
+    background-color: cornflowerblue;
+}
+
+._eq {
+    background-color: cornflowerblue;
+}
+
+._AC {
+    background-color: cornflowerblue;
+}
